@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Aditya Singh
 
-I am an undergraduate B.Tech student passionate about **AI/ML research** and its applications in solving real-world problems. Right now, I am exploring projects around climate and sustainability, and my goal is to contribute to **AI-driven solutions for real-world challenges**
+I am an undergraduate B.Tech student passionate about **AI/ML research** and its applications in solving real-world problems. Right now, I am exploring projects around climate and sustainability, and my goal is to contribute to **AI-driven solutions for real-world challenges**.
 I am still early in my research journey, but I am working step by step - learning the foundations, building projects, and preparing to move deeper into data-driven research and AI for good.
 
 ## 🔬 Research and Interests:
