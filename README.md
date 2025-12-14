@@ -28,10 +28,13 @@ I have organized my work into two main threads that demonstrate my ability to ha
     Successfully reproduced and significantly extended a key CO₂ emissions paper, comparing multiple unsupervised learning models (KMeans, GMM, Hierarchical Clustering), assessing PCA impact, performing temporal analysis (1990–2020), and generating policy-relevant recommendations based on cluster dynamics.
 
 ## 🛠️ Skills & Tools:
-🔹 Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+🔹 Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 🔹 Exploratory Data Analysis (EDA) & Visualization  
+🔹 Mathematics for Machine Learning
+🔹 Machine Learning
 🔹 Unsupervised Learning (KMeans, Isolation Forest)  
 🔹 Clustering Evaluation & Metric Interpretation  
+🔹 Deep Learning
 🔹 Natural Language Processing (Sentence-BERT)  
 🔹 Graph Neural Networks (GCN) & Citation Networks  
 🔹 Multimodal Representation Learning  
