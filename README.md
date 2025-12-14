@@ -17,7 +17,7 @@ I have organized my work into two main threads that demonstrate my ability to ha
     * Methodology:  Developed a multimodal fusion strategy combining:
       * Semantic Embeddings from Sentence-BERT (SBERT) on paper abstracts.
       * Structural Embeddings from a Graph Convolutional Network (GCN) on a citation graph of 1,000 papers.
-    * Results: The combined representation achieved a  Silhouette Score than either SBERT-only or GCN-only models, resulting in more topically coherent and interpretable clusters of Transformer research.
+    * Results: Integrating citation-based structural embeddings with SBERT significantly improved clustering performance compared to semantic embeddings alone. Although the GCN-only representation achieved the highest separability, the combined approach provided a balanced semantic–structural representation that improved topic coherence.
 
 ### ML and Policy Insights in Climate and Sustainability
   - 🌍 [Climate & Sustainability Data Analysis](https://github.com/aditya27singh/Climate_sustainability_analysis)
