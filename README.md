@@ -15,8 +15,8 @@ I have organized my work into two main threads that demonstrate my ability to ha
   - [Enhancing Topic Coherence in NLP Literature using Combined Semantic and Graph Embeddings](https://github.com/aditya27singh/SBERT_GCN_topic_discovery_NLP)
     * Objective: Overcame the limitations of purely semantic clustering by integrating citation network structure.
     * Methodology:  Developed a multimodal fusion strategy combining:
-      ** Semantic Embeddings from Sentence-BERT (SBERT) on paper abstracts.
-      ** Structural Embeddings from a Graph Convolutional Network (GCN) on a citation graph of 1,000 papers.
+      * Semantic Embeddings from Sentence-BERT (SBERT) on paper abstracts.
+      * Structural Embeddings from a Graph Convolutional Network (GCN) on a citation graph of 1,000 papers.
     * Results: The combined representation achieved a  Silhouette Score than either SBERT-only or GCN-only models, resulting in more topically coherent and interpretable clusters of Transformer research.
 
 ### ML and Policy Insights in Climate and Sustainability
