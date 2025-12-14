@@ -24,15 +24,22 @@ I have organized my work into two main threads that demonstrate my ability to ha
     Performed extensive cleaning, feature engineering (growth rates, intensity), and visualization on multi-source datasets (OWID, World Bank) to create a robust foundation for ML.
   - [Integrating Machine Learning into Existing Project ](https://github.com/aditya27singh/Climate_Data_Insights_Using_ML)
     Enhanced my first project by applying K-Means Clustering and Isolation Forest to identify three distinct global economic archetypes based on CO₂ emissions and GDP dynamics (e.g., high-income, declining-emission vs. mid-industrializing, rising-emission economies).
-- [Research Paper Reproduction & Extension](https://github.com/aditya27singh/ML_Reproduction_and_Extension)
-  Successfully reproduced and significantly extended a key CO₂ emissions paper, comparing multiple unsupervised learning models (KMeans, GMM, Hierarchical Clustering), assessing PCA impact, performing temporal analysis (1990–2020), and generating policy-relevant recommendations based on cluster dynamics.
+  - [Research Paper Reproduction & Extension](https://github.com/aditya27singh/ML_Reproduction_and_Extension)
+    Successfully reproduced and significantly extended a key CO₂ emissions paper, comparing multiple unsupervised learning models (KMeans, GMM, Hierarchical Clustering), assessing PCA impact, performing temporal analysis (1990–2020), and generating policy-relevant recommendations based on cluster dynamics.
 
 ## 🛠️ Skills & Tools:
-- Python
-- Libraries (Pandas, NumPy, Matplotlib, Seaborn)
-- Mathematics for ML
-- Machine Learning
-- 
+🔹 Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+🔹 Exploratory Data Analysis (EDA) & Visualization  
+🔹 Unsupervised Learning (KMeans, Isolation Forest)  
+🔹 Clustering Evaluation & Metric Interpretation  
+🔹 Natural Language Processing (Sentence-BERT)  
+🔹 Graph Neural Networks (GCN) & Citation Networks  
+🔹 Multimodal Representation Learning  
+🔹 Dimensionality Reduction (PCA, t-SNE, UMAP)  
+🔹 Research Paper Reproduction & Extension  
+🔹 Reproducible Machine Learning Pipelines  
+🔹 PyTorch, PyTorch Geometric, NetworkX  
+🔹 Git & GitHub
 
 ## 📫 Let’s Connect:
 - Linkedin: [linkedin.com/in/aditya-singh](https://www.linkedin.com/in/aditya-singh-63b427321/)
