@@ -18,6 +18,8 @@ I have organized my work into two main threads that demonstrate my ability to ha
       * Semantic Embeddings from Sentence-BERT (SBERT) on paper abstracts.
       * Structural Embeddings from a Graph Convolutional Network (GCN) on a citation graph of 1,000 papers.
     * Results: Integrating citation-based structural embeddings with SBERT significantly improved clustering performance compared to semantic embeddings alone. Although the GCN-only representation achieved the highest separability, the combined approach provided a balanced semantic–structural representation that improved topic coherence.
+    * Streamlit demo (deployed):
+      `[https://your-streamlit-app-link](https://sbertgcntopicdiscoverynlp27.streamlit.app/)`
 
 ### ML and Policy Insights in Climate and Sustainability
   - 🌍 [Climate & Sustainability Data Analysis](https://github.com/aditya27singh/Climate_sustainability_analysis)
@@ -25,7 +27,9 @@ I have organized my work into two main threads that demonstrate my ability to ha
   - [Integrating Machine Learning into Existing Project ](https://github.com/aditya27singh/Climate_Data_Insights_Using_ML)
     Enhanced my first project by applying K-Means Clustering and Isolation Forest to identify three distinct global economic archetypes based on CO₂ emissions and GDP dynamics (e.g., high-income, declining-emission vs. mid-industrializing, rising-emission economies).
   - [Research Paper Reproduction & Extension](https://github.com/aditya27singh/ML_Reproduction_and_Extension)
-    Successfully reproduced and significantly extended a key CO₂ emissions paper, comparing multiple unsupervised learning models (KMeans, GMM, Hierarchical Clustering), assessing PCA impact, performing temporal analysis (1990–2020), and generating policy-relevant recommendations based on cluster dynamics.
+    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17215995.svg)](https://doi.org/10.5281/zenodo.17215995)
+    Successfully reproduced and significantly extended a key CO₂ emissions paper, comparing multiple unsupervised learning models (KMeans, GMM, Hierarchical Clustering), assessing PCA impact, performing temporal analysis (1990–2020), and generating policy-relevant recommendations based on cluster dynamics. A report is present on Zenodo.
+    
 
 ## 🛠️ Skills & Tools:
 * Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
