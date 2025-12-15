@@ -19,7 +19,7 @@ I have organized my work into two main threads that demonstrate my ability to ha
       * Structural Embeddings from a Graph Convolutional Network (GCN) on a citation graph of 1,000 papers.
     * Results: Integrating citation-based structural embeddings with SBERT significantly improved clustering performance compared to semantic embeddings alone. Although the GCN-only representation achieved the highest separability, the combined approach provided a balanced semantic–structural representation that improved topic coherence.
     * Streamlit demo (deployed):
-      [https://your-app.streamlit.app](https://sbertgcntopicdiscoverynlp27.streamlit.app/)
+      [View app](https://sbertgcntopicdiscoverynlp27.streamlit.app/)
 
 ### ML and Policy Insights in Climate and Sustainability
   - 🌍 [Climate & Sustainability Data Analysis](https://github.com/aditya27singh/Climate_sustainability_analysis)
