@@ -1,4 +1,4 @@
-## Hi there 👋, I am Aditya Singh
+                                                                ## Hi there 👋, I am Aditya Singh
 
 I am an aspiring AI/ML researcher dedicated to leveraging data science and machine learning techniques to solve complex real-world problems. Having progressed from foundational coursework to implementing advanced models, my journey has focused on building end-to-end solutions—from data preprocessing and feature engineering to deploying sophisticated methods, such as Graph Neural Networks (GNNs) and Multimodal Fusion. I am committed to contributing to AI-driven solutions that benefit society, particularly in the domains of climate and sustainability.
 
